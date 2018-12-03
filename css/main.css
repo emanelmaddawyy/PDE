@@ -1073,7 +1073,7 @@ Owl nav
     display: inline-block;
     padding: 10px;
 }
-.post-meta ul li a {} .post-meta ul li a i {
+.post-meta ul li a i {
     margin-right: 10px;
 }
 .readmore-button {
